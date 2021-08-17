@@ -1,1 +1,1 @@
-<img src="frutlogo.png" width="auto" height="80px" />
+<img src="frut.png" width="auto" height="80px" />
