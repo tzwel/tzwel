@@ -1,2 +1,1 @@
-<img width=”200" height=”200" src=”frut.png" alt=”my banner”>
-
+<img src="frutlogo.png" width="auto" height="80px" />
