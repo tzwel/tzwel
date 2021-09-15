@@ -1,0 +1,39 @@
+/* set variables */
+:root {
+ --text-color: #000;
+}
+/* boilerplate colors */
+html {
+  box-sizing: border-box;
+  background: transparent;
+  color: var(--text-color);
+}
+/* simple normalize */
+*,* * {
+  margin: 0;
+  padding: 0;
+  position: relative;
+  overflow: hidden;
+  user-select: none;
+  -webkit-user-drag: none;
+  box-sizing: inherit;
+  font-size: 1.2rem;
+  max-width: 100%;
+  line-height: 1.3;
+  font-family: Segoe UI, sans-serif;
+  -webkit-tap-highlight-color: transparent;
+}
+/* fix <head> bug */
+head {
+  display: none !important;
+  visibility: hidden;
+}
+button {
+  cursor: pointer;
+  outline: 0;
+  border: 0;
+  color: var(--text-color);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
