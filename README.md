@@ -1,1 +1,1 @@
-<img src="/images/ffffg.png" width="100%" height="auto" />
+<img src="/images/jjj.png" width="100%" height="auto" />
