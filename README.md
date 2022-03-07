@@ -8,3 +8,6 @@
 - Go
 - Lua
 - C#
+
+should I list shit like webpack, rollup and stuff?
+I guess not
