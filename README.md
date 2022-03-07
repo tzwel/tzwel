@@ -1,10 +1,10 @@
 <p align="center"> <img src="/images/gopher-dance-long-3x.gif" width="25%" height="auto" /> </p>
 
-# Languages I have experience with
-- JavaScript
+# Technologies I have experience with
+- JavaScript (html & css ofc)
+- NodeJS
 - Python
 - Go
 - Lua
 - C#
-- Polish
-- English
+- *basics of svelte*
