@@ -1,4 +1,7 @@
-### Obsessed with privacy yet still using microsoft services
+### My stuff
+[My website](https://tzwel.xyz) /
+[My polish blog](https://blog.tzwel.xyz) /
+[E-mail address](mailto:tzwel@int.pl)
 
 ---
 
