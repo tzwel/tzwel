@@ -11,7 +11,7 @@
 - - Svelte and SvelteKit
 - - Electron
 - - Various libraries
+- - Go
 - Python
-- Go
 - Lua
 - C#
