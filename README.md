@@ -5,7 +5,7 @@
 
 ---
 
-### Technologies I have experience with
+### Technologies I am experienced with
 - JavaScript (html & css ofc)
 - - NodeJS (express, discord.js, etc.)
 - - Svelte and SvelteKit
