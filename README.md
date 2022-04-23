@@ -7,10 +7,10 @@
 
 ### Technologies I have experience with
 - JavaScript (html & css ofc)
-- - NodeJS
-- - Svelte
+- - NodeJS (express, discord.js, etc.)
+- - Svelte and SvelteKit
 - - Electron
-- - Various libraries like rollup.js
+- - Various libraries
 - Python
 - Go
 - Lua
