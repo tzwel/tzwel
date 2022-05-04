@@ -11,7 +11,7 @@
 - [crypto](https://github.com/tzwel/crypto) (polish file encryptor and decryptor)
 
 ### 4 fun
-- [simple js routing](https://github.com/tzwel/simple-js-routing) (simple SPA)
+- [simple js routing](https://github.com/tzwel/simple-js-routing) (simple SPA, evolved to [🧊 Fresh](https://github.com/tzwel/Fresh))
 - [JIH](https://github.com/tzwel/JIH) (js expresions in html)
 
 ---
