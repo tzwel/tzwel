@@ -7,6 +7,7 @@
 - [WSD](https://github.com/tzwel/WSD) (windows service debloater)
 - [huy.css](https://github.com/tzwel/huy.css) (a barebones css boilerplate)
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client)
+- [Fresh](https://github.com/tzwel/Fresh) (🧊 A Fresh approach to creating single page apps)
 - [crypto](https://github.com/tzwel/crypto) (polish file encryptor and decryptor)
 
 ### 4 fun
