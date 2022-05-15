@@ -8,7 +8,7 @@
 - [huy.css](https://github.com/tzwel/huy.css) (A barebones css boilerplate) Comes in handy, I use it frequently
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) Slowly becomes abandonware as Im planning to rewrite it in Svelte
 - [Fresh](https://github.com/tzwel/Fresh) (🧊 A Fresh approach to creating single page apps) Experimental framework that still needs polish
-- [crypto](https://github.com/tzwel/svelte-electron-hotreload-template) (Svelte + Electron + Hot Reload template) For lazy quickstarting bloated Electron software
+- [Svelte Electron Hotreload template](https://github.com/tzwel/svelte-electron-hotreload-template) For lazy quickstarting bloated Electron software
 - [crypto](https://github.com/tzwel/crypto) (Polish file encryptor and decryptor) Useful cryptography fun
 
 ### 4 fun
