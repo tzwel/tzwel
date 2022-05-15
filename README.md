@@ -13,7 +13,7 @@
 
 ### 4 fun
 - [simple js routing](https://github.com/tzwel/simple-js-routing) (Simple SPA, evolved to [🧊 Fresh](https://github.com/tzwel/Fresh))
-- [JIH](https://github.com/tzwel/JIH) (js expresions in html)
+- [JIH](https://github.com/tzwel/JIH) (js expresions in html) Abandoned as I'm rewriting it
 
 ---
 
