@@ -1,7 +1,7 @@
 ## My stuff
-[My website](https://tzwel.xyz) /
-[My polish blog](https://blog.tzwel.xyz) /
-[E-mail address](mailto:tzwel@int.pl)
+[🌐 My website](https://tzwel.xyz) / 
+[🇵🇱 My Polish blog](https://blog.tzwel.xyz) /
+[📧 E-mail address](mailto:tzwel@int.pl)
 
 ### Useful projects
 - [WSD](https://github.com/tzwel/WSD) (windows service debloater)
