@@ -25,5 +25,5 @@
 - - Various libraries
 - Go
 - Python
-- Lua
+- Lua 
 - C#
