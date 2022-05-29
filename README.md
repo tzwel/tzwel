@@ -6,7 +6,7 @@
 ### Useful projects
 - [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Discontinued, planning to rewrite it in GO
 - [huy.css](https://github.com/tzwel/huy.css) (A barebones css boilerplate) Comes in handy, I use it frequently
-- [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) Slowly becomes abandonware as Im planning to rewrite it in Svelte
+- [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
 - [Fresh](https://github.com/tzwel/Fresh) (🧊 A Fresh approach to creating single page apps) Experimental framework that still needs polish
 - [Svelte Electron Hotreload template](https://github.com/tzwel/svelte-electron-hotreload-template) For lazy quickstarting bloated Electron software
 - [crypto](https://github.com/tzwel/crypto) (Polish file encryptor and decryptor) Useful cryptography fun
