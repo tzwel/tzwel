@@ -1,3 +1,5 @@
+ <img src="images/akibanner.jpg" width="100%" height="auto" />
+
 ## My stuff
 [🌐 My website](https://tzwel.xyz) / 
 [🇵🇱 My Polish blog](https://blog.tzwel.xyz) /
