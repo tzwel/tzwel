@@ -24,6 +24,7 @@
 - Python
 - Lua 
 - C#
+- Ruby (starting out)
 
 ##  IDEs
 - VSCode (VSCodium)
