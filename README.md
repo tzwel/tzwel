@@ -24,3 +24,7 @@
 - Python
 - Lua 
 - C#
+
+##  IDEs
+- VSCode (VSCodium)
+- Atom
