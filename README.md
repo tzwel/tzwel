@@ -22,7 +22,7 @@
 - - Various libraries
 - Go
 - Python
-- Lua 
+- Lua (TBOI modding)
 - C#
 - Ruby (starting out)
 
