@@ -26,6 +26,6 @@
 - C#
 - Ruby (starting out)
 
-##  IDEs
+###  IDEs
 - VSCode (VSCodium)
 - Atom
