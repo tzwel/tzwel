@@ -5,7 +5,8 @@
 [🇵🇱 My Polish blog](https://blog.tzwel.xyz) /
 [📧 E-mail address](mailto:tzwel@int.pl) (feel free to message)
 
-### Useful projects
+### Projects
+- [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
 - [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Discontinued, planning to rewrite it in GO
 - [Slimauth](https://github.com/tzwel/slimauth-plus) A fork of a simple library for user authentication in node.js that fixes known bugs and adds more useful features such as password/username validator
 - [logman](https://github.com/tzwel/logman) A simple node.js logger
