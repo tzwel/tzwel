@@ -3,7 +3,7 @@
 ## My stuff
 [🌐 My website](https://tzwel.xyz) / 
 [🇵🇱 My Polish blog](https://blog.tzwel.xyz) /
-[📧 E-mail address](mailto:tzwel@int.pl) (feel free to message)
+[📧 E-mail address](mailto:tzwel@int.pl) (slow to reply)
 
 ### Projects
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
