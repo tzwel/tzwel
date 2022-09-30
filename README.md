@@ -1,4 +1,4 @@
- <img src="images/akibanner.jpg" width="100%" height="auto" />
+ <img src="images/akibanner%20kopia.jpg" width="100%" height="auto" />
 
 ## My stuff
 [🌐 My website](https://tzwel.xyz) / 
