@@ -17,7 +17,7 @@
 
 ### Technologies I am experienced with
 - JavaScript (html & css ofc)
-- - NodeJS (express, discord.js, ejs, quickdb, etc.)
+- - NodeJS (express, discord.js, ejs, quickdb, rollupjs etc.)
 - - Svelte and SvelteKit
 - - Electron
 - - Various libraries
