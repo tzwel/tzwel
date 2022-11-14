@@ -11,10 +11,10 @@
 
 <details>
   <summary>
-    <h3> Technologies I am experienced with </h3>
+    <h3> technologies I am experienced with </h3>
   </summary>
   
-PROGRAMMING:
+**Programming**:
 - JavaScript (html & css ofc)
 - - NodeJS (express, discord.js, ejs, quickdb, rollupjs, eslint etc.)
 - - Svelte and SvelteKit
@@ -26,11 +26,11 @@ PROGRAMMING:
 - C#
 - Ruby (starting out)
   
-GFX:
+**gfx**:
 - Adobe Photoshop, GIMP, Photopea, Inkscape
 - Stablediffusion if this interests you
   
-IDEs:
+**ides**:
 - VSCode (VSCodium)
 - Atom
 - Sublimetext
