@@ -31,7 +31,7 @@
   
 **gfx**:
 - Adobe Photoshop, GIMP, Photopea, Inkscape
-- Stablediffusion if this interests you
+- StableDiffusion if this interests you
   
 **ides**:
 - VSCode (VSCodium)
