@@ -7,6 +7,8 @@
 - [logman](https://github.com/tzwel/logman) A simple node.js logger (fs, async!)
 - [huy.css](https://github.com/tzwel/huy.css) (A barebones css boilerplate) Comes in handy, I use it frequently
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
+- An imageboard engine
+- Another JS framework
 
 
 
