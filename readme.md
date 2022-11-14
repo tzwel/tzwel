@@ -11,7 +11,7 @@
 
 <details>
   <summary>
-    <h3> technologies I am experienced with </h3>
+    <h3> stuff I am experienced with </h3>
   </summary>
   
 **Programming**:
@@ -36,5 +36,8 @@
 - VSCode (VSCodium)
 - Atom
 - Sublimetext
+  
+**not related at all**:
+- Fruity Loops Studio (literally years of fiddling)
 
 </details>
