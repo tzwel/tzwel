@@ -14,14 +14,15 @@
     <h3> stuff I am experienced with </h3>
   </summary>
   
-**Programming**:
+**programming**:
 *JavaScript (html & css ofc):*
 - NodeJS (express, discord.js, ejs, quickdb, rollupjs, eslint, socket.io etc.)
 - Svelte and SvelteKit
 - Electron
 - Various libraries
   
-*Langs:*
+*langs:*
+- JavaScript
 - Go
 - Python
 - Lua (TBOI modding)
