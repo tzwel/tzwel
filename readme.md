@@ -14,6 +14,7 @@
     <h3> Technologies I am experienced with </h3>
   </summary>
   
+PROGRAMMING:
 - JavaScript (html & css ofc)
 - - NodeJS (express, discord.js, ejs, quickdb, rollupjs, eslint etc.)
 - - Svelte and SvelteKit
@@ -24,8 +25,14 @@
 - Lua (TBOI modding)
 - C#
 - Ruby (starting out)
+  
+GFX:
 - Adobe Photoshop, GIMP, Photopea, Inkscape
 - Stablediffusion if this interests you
-
+  
+IDEs:
+- VSCode (VSCodium)
+- Atom
+- Sublimetext
 
 </details>
