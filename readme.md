@@ -15,11 +15,13 @@
   </summary>
   
 **Programming**:
-- JavaScript (html & css ofc)
-- - NodeJS (express, discord.js, ejs, quickdb, rollupjs, eslint etc.)
-- - Svelte and SvelteKit
-- - Electron
-- - Various libraries
+*JavaScript (html & css ofc):*
+- NodeJS (express, discord.js, ejs, quickdb, rollupjs, eslint etc.)
+- Svelte and SvelteKit
+- Electron
+- Various libraries
+  
+*Langs:*
 - Go
 - Python
 - Lua (TBOI modding)
