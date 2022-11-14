@@ -1,5 +1,7 @@
 #### making computer stuff
 
+<img src="images/laying.jpg" width="100%" height="auto" />
+
 ### such as
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
 - [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Basically what the name says
