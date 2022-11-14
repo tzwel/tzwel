@@ -41,5 +41,6 @@
   
 **not related at all**:
 - Fruity Loops Studio (literally years of fiddling)
+- Audacity
 
 </details>
