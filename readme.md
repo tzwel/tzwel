@@ -47,5 +47,6 @@
 - Fruity Loops Studio (literally years of fiddling)
 - Audacity
 - Tampermonkey, Greasemonkey, Violentmonkey scripting
-
+- Innosetup
+  
 </details>
