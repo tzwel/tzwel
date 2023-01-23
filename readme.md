@@ -1,6 +1,6 @@
 #### making computer stuff
 
-<img src="images/66e81eec-1cad-42ce-a374-bdfdb351b2ea.png" width="100%" height="auto" />
+<img src="images/andava.psd.png" width="100%" height="auto" />
 
 ### such as
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
