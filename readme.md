@@ -4,7 +4,6 @@
 </a>
 
 
-
 <img src="images/andava.psd.png" width="100%" height="auto" />
 
 ### such as
