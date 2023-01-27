@@ -3,8 +3,7 @@
   <img src="https://img.shields.io/badge/support%20me%20on-ko--fi-pink?logo=ko-fi&logoColor=pink&logoWidth=20&style=flat"/>
 </a>
 
-
-<img src="images/andava.psd.png" width="100%" height="auto" />
+<img src="images/o.jpg" width="100%" height="auto" />
 
 ### such as
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
