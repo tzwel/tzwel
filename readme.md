@@ -9,7 +9,7 @@
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
 - [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Basically what the name says
 - [Nakadashi.js](https://gist.github.com/tzwel/f90ca6bff3288d25a3dce5b2db586bc4) The simplest Node.js server i'm hoping to extend
-- [Slimauth](https://github.com/tzwel/slimauth-plus) A fork of a simple library for user authentication in node.js that fixes known bugs and adds more useful features such as password/username validator
+- [Slimauth+](https://github.com/tzwel/slimauth-plus) A fork of a simple library for user authentication in node.js that fixes known bugs and adds more useful features such as password/username validator
 - [logman](https://github.com/tzwel/logman) A simple node.js logger (fs, async!)
 - [huy.css](https://github.com/tzwel/huy.css) (A barebones css boilerplate) Comes in handy, I use it frequently
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
