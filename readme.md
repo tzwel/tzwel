@@ -40,7 +40,6 @@
   
 **gfx**:
 - Adobe Photoshop, GIMP, Photopea, Inkscape
-- StableDiffusion if this interests you
   
 **ides**:
 - VSCode (VSCodium)
@@ -52,5 +51,6 @@
 - Audacity
 - Tampermonkey, Greasemonkey, Violentmonkey scripting
 - Innosetup
-  
+- StableDiffusion if this interests you
+
 </details>
