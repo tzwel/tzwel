@@ -37,6 +37,7 @@
 - Lua (TBOI modding)
 - C#
 - Ruby (starting out)
+- Racket (starting out)
   
 **gfx**:
 - Adobe Photoshop, GIMP, Photopea, Inkscape
