@@ -25,7 +25,7 @@
   
 **programming**:
 *JavaScript (html & css ofc):*
-- NodeJS (express, discord.js, ejs, quickdb, rollupjs, eslint, socket.io etc.)
+- NodeJS (express, discord.js, ejs, prisma, quickdb, rollupjs, eslint, socket.io, vite etc.)
 - Svelte and SvelteKit
 - Electron
 - Various libraries
