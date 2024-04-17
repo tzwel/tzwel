@@ -1,7 +1,4 @@
 #### making computer stuff
-<a href="https://ko-fi.com/tzwel">
-  <img src="https://img.shields.io/badge/support%20me%20on-ko--fi-pink?logo=ko-fi&logoColor=pink&logoWidth=20&style=flat"/>
-</a>
 
 <img src="images/o.jpg" width="100%" height="auto" />
 
