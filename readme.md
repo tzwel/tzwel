@@ -2,6 +2,10 @@
 
 <img src="images/o.jpg" width="100%" height="auto" />
 
+<a href="https://ko-fi.com/tzwel">
+  <img src="https://img.shields.io/badge/support%20me%20on-ko--fi-pink?logo=ko-fi&logoColor=pink&logoWidth=20&style=flat"/>
+</a>
+
 ### such as
 - [perfTime](https://github.com/tzwel/perfTime) Measure execution times of code blocks effortlessly
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
