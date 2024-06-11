@@ -7,7 +7,8 @@
 </a>
 
 ### such as
-- [perfTime](https://github.com/tzwel/perfTime) Measure execution times of code blocks effortlessly
+- [breezeid](https://github.com/tzwel/BreezeID) 🍃 Easily generate human-first IDs 
+- [perfTime](https://github.com/tzwel/perfTime) Measure execution time of code blocks effortlessly
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
 - [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Basically what the name says
