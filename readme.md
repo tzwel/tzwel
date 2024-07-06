@@ -7,10 +7,14 @@
 </a>
 
 ### such as
+
+**the best of the best:**
 - [breezeid](https://github.com/tzwel/BreezeID) 🍃 Easily generate human-first IDs 
 - [perfTime](https://github.com/tzwel/perfTime) Measure execution time of code blocks effortlessly
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
 - [Awesome unique ID](https://github.com/grantcarthew/awesome-unique-id) A curated list of awesome Unique ID libraries and resources.
+
+**the rest:**
 - [Material Ripple](https://github.com/tzwel/material-ripple)  A faithful recreation of Google's material ripple effect 
 - [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Basically what the name says
 - [Hoarder](https://github.com/tzwel/hoarder) A Node.js script (with CLI) that lets you save websites and store them in one place. Horribly messy at the moment
