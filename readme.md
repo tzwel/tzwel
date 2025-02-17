@@ -10,7 +10,6 @@
 
 **the best of the best:**
 - [breezeid](https://github.com/tzwel/BreezeID) 🍃 Easily generate human-first IDs 
-- [perfTime](https://github.com/tzwel/perfTime) Measure execution time of code blocks effortlessly
 - [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
 - [Awesome unique ID](https://github.com/grantcarthew/awesome-unique-id) A curated list of awesome Unique ID libraries and resources.
 
