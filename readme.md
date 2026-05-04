@@ -8,6 +8,6 @@
 
 - [breezeid](https://github.com/tzwel/BreezeID) 🍃 Easily generate human-first IDs
 - [renu](https://github.com/tzwel/renu) A simple command line utility for renaming files
-- [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional, the best Gelbooru client out there in my opinion
+- [Absence](https://github.com/tzwel/Absence) (nsfw gelbooru client) A fully functional (no more), the best Gelbooru client out there in my opinion
 - [Awesome unique ID](https://github.com/grantcarthew/awesome-unique-id) A curated list of awesome Unique ID libraries and resources
-- [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Basically what the name says
+- [WSD](https://github.com/tzwel/WSD) (Windows Service Debloater) Basically what the name says. It's a shitty little script but people keep finding and using it for some reason
